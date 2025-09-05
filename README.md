@@ -1,6 +1,17 @@
 # 💫 About Me:
 Hi there! 👋 I'm Vinayak Paka<br>🚀 Software Developer | Full-Stack Enthusiast<br>💻 Skilled in JavaScript, Java, Python, C# | React, Node.js, Spring Boot<br>🔍 Passionate about building scalable apps & solving real-world problems<br>🏆 FinTech Olympiad 2024 Finalist | NYAS Member<br><br><br>"Wealth isn’t luck—it’s a system. Let’s debug your life" 👊<br><br>
 
+# 💼 Experience
+
+**Software Engineer — Undivided-Capital (Feb 2025 - July 2025)**  
+Founding Engineer at a $40M early-stage VC fund. Led **Project Kalam**, a GenAI-powered platform that automated founder discovery and evaluation.  
+
+- Designed and deployed **scalable Python pipelines** that collect and enrich founder/startup data from LinkedIn, pitch events, and incubators.  
+- Built a **React + Node.js dashboard** enabling investors to track, prioritize, and evaluate 3,000+ founders in real time.  
+- Integrated **AI-powered ranking models** (traction, TAM, founder–market fit) that improved lead quality by **3x**.  
+- Reduced **deal evaluation time by 40%** by automating due-diligence workflows and centralizing pipeline management.  
+- Drove **end-to-end product ownership** — from backend architecture and AI integration to UI design and investor workflow optimization.  
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinayak__paka) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinayakpaka) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vinayakpaka) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@vinayakpaka) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinayakpaka22@gmail.com) 
 
